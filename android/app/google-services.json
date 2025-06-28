@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368411165363",
+    "project_id": "plant-rx",
+    "storage_bucket": "plant-rx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368411165363:android:9c8c70f203de5c1ced26c6",
+        "android_client_info": {
+          "package_name": "com.example.plant_rx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368411165363-md41esicr75r8hip1tsnj67p90mof9tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX_0QZoUhTAYwKNPrIaRiA9lknKP9cEgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368411165363-md41esicr75r8hip1tsnj67p90mof9tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
